@@ -1,6 +1,12 @@
 # devlinks
 Uma lista com vários links de conteúdo, das diversas áreas de desenvolvimento.
 
+##### JS Design Patterns
+* [JS Patterns EN](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [JS Patterns Pt-br - Tableless](http://tableless.com.br/design-patterns-em-javascript-observer/)
+* [Module Patterns Pt-br - Nando Viera](https://nandovieira.com.br/design-patterns-no-javascript-module)
+
+
 #####Banco de Imagens
 * [UnSplash](https://unsplash.com/)
 * [MorgueFile](http://www.morguefile.com/)
