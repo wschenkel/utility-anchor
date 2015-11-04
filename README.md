@@ -104,3 +104,6 @@ Uma lista com vários links de conteúdo, das diversas áreas de desenvolvimento
 * [We <3 WP](http://welovewp.com/)
 * [Dribbble / WordPress](https://dribbble.com/tags/wordpress)
 * [Design para WordPress - Youtube](https://www.youtube.com/playlist?list=PLdZRdd7M_omsavHC41yyJpmSNu5T_17lp)
+
+
+Contribua! :)
