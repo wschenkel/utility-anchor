@@ -26,6 +26,7 @@ Uma lista com vários links de conteúdo, das diversas áreas de desenvolvimento
 * [FavIcon](http://www.favicon-generator.org/)
 * [DagonDesign](http://www.dagondesign.com/tools/favicon-generator-tool/)
 * [Favicon.cc](http://www.favicon.cc/)
+* [Generate Favicon Sprite](http://glue.readthedocs.org/en/latest/quickstart.html)
 
 #####Fontes
 * [Google Web Fonts](https://www.google.com/fonts)
