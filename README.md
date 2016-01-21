@@ -1,6 +1,10 @@
 # devlinks
 Uma lista com vários links de conteúdo, das diversas áreas de desenvolvimento.
 
+##### CSS Suport Guide E-mail Mkt
+* [CSS Suport](https://www.campaignmonitor.com/css/)
+* [Correct Doctype](https://www.campaignmonitor.com/blog/email-marketing/2010/11/correct-doctype-to-use-in-html-email/)
+
 ##### JS Design Patterns
 * [JS Patterns EN](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [JS Patterns Pt-br - Tableless](http://tableless.com.br/design-patterns-em-javascript-observer/)
