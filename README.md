@@ -110,5 +110,7 @@ Uma lista com vários links de conteúdo, das diversas áreas de desenvolvimento
 * [Dribbble / WordPress](https://dribbble.com/tags/wordpress)
 * [Design para WordPress - Youtube](https://www.youtube.com/playlist?list=PLdZRdd7M_omsavHC41yyJpmSNu5T_17lp)
 
+#####Metodologia Gerenciais
+* [Scrum/Ágil](http://www.eunati.com.br/2015/12/seja-agil-com-scrum-material-gratuito.html)
 
 Contribua! :)
