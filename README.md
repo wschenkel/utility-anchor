@@ -98,6 +98,9 @@ Uma lista com vários links de conteúdo, das diversas áreas de desenvolvimento
 * [Colour Lovers](http://www.colourlovers.com/patterns)
 * [The Pattern Library](http://thepatternlibrary.com/)
 
+#####Cartoon Avatar Generator
+* [Cartoonify](http://cartoonify.de/)
+
 #####UX
 * [Blog de AI](http://arquiteturadeinformacao.com/)
 * [UX Blog](http://www.uxdesign.blog.br/)
