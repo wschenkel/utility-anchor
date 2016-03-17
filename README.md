@@ -50,6 +50,7 @@ Uma lista com vários links de conteúdo, das diversas áreas de desenvolvimento
 * [Pinceladas na Web](http://www.pinceladasdaweb.com.br/blog/)
 * [Visie](http://visie.com.br/blog/blog)
 * [William Malone - HTML5 Games](http://www.williammalone.com/)
+* [Mateus Medeiros](http://devmateusmedeiros.com.br/iniciando-com-jekyll/)
 
 #####Desenvolvimento Web Inspiração
 * [CSS Awwwards](http://www.awwwards.com/)
